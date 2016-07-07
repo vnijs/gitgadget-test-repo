@@ -1,1 +1,3 @@
-A public test repo to clone using the gitgadget Rstudio addin
+- A public test repo to clone using the gitgadget Rstudio addin
+- Cloned the repo using `gitgadget` and created an Rproject
+- Commit using Rstudio
